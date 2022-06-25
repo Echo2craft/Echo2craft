@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Echo2craft
-### 🌱 A Newbie Dev with:
+### 🌱 A Newbie Coder with:
 - 1 year and more in **Java**.
 - 2 months in **HTML**,**CSS**,**C#**.
 - And still learning more.
