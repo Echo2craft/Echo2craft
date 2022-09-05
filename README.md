@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Echo2craft
 ### 🌱 A Newbie Coder with:
 - 1 year and more in **Java**.
-- 2 monthsand more in **HTML**,**CSS**,**C#**.
+- 2 months and more in **HTML**,**CSS**,**C#**.
 - And still learning more.
 ### 👀 I’m currently interested in:
 - Game Development
