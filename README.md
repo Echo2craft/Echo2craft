@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Echo2craft
 ### 🌱 A Newbie Coder with:
-- 1 year and more in **Java**.
+- 1 year and more in [**Java**](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white).
 - 2 months and more in **HTML**,**CSS**,**C#**.
 - And still learning more.
 ### 👀 I’m currently interested in:
